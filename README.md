@@ -154,11 +154,10 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Lamber J. Kpukuyou - [Github](https://github.com/Lamber22) / [Twitter](https://twitter.com/Lamber_j)  
-Evans Nyarko - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+Favour Simeon- [Github](https://github.com/Favoursimeon) / [Twitter](https://twitter.com/lovelynsimeon)  
 ## Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 ## David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Fourth part of Airbnb: Lamber J. Kpukuyou
+Fourth part of Airbnb: Favour Simeon
 ## License
 Public Domain. No copy write protection. 
